@@ -13,11 +13,6 @@ The receipt generator takes user inputs for purchased items, calculates totals (
 - Display a neatly formatted receipt
 - Save the receipt to a `.txt` file (optional)
 
-##  Technologies Used
-
-- Python 3
-- Built-in Python libraries (`datetime`, `textwrap`, etc.)
-
 ## Getting Started
 
 ### Prerequisites
